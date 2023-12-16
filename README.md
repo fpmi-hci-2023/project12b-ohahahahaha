@@ -23,6 +23,10 @@ Repository of [Transport in China and Belarus web-application](https://github.co
 
 This is demo project.
 
+# Reports
+
+Please, visit `reports/` folder to find links on reports. 
+
 # Contributing
 
 Author: Chen Zhen
